@@ -1,7 +1,3 @@
-Absolutely, here's a concise version of the README:
-
----
-
 # Interactive Robot Motion Planning Interface
 
 This project implements an interactive graphical user interface (GUI) in Jupyter Notebook for motion planning of a mobile robot. It's based on ResearchTrack 1 Assignment #2, providing controls to set/cancel targets, visualize trajectory, monitor obstacles, and track goal achievements.
